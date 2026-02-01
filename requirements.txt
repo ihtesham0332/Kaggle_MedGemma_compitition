@@ -1,0 +1,14 @@
+pydicom
+numpy
+Pillow
+transformers>=4.50.0
+torch
+accelerate
+bitsandbytes
+scipy
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+huggingface_hub
