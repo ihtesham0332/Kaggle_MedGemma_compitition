@@ -1,6 +1,6 @@
 @echo off
 @REM Set your Hugging Face Token here or in system environment variables
-set HF_TOKEN=hf_YOUR_TOKEN_HERE
+set HF_TOKEN=YOUR_HF_TOKEN_HERE
 echo Starting Kidney Stone Analysis System...
 
 :: Activate Environment
