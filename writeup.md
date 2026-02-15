@@ -53,6 +53,9 @@ This tool democratizes expert-level radiology. In low-resource settings where su
 *   **3D Volumetric Analysis:** Extending the generic split-brain approach to sequential slices.
 *   **LMM-RAG:** integrating patient history (PDFs) into the context window for holistic diagnosis.
 
+### 🧑‍💻 Data Source
+The "Split-Brain" methodology was validated using the **Axial CT Imaging Dataset (Kidney Stone Detection)** from Kaggle [Orvile/axial-ct-imaging-dataset-kidney-stone-detection](https://www.kaggle.com/datasets/orvile/axial-ct-imaging-dataset-kidney-stone-detection). This dataset provided diverse cases of stones for testing the multi-window visualization.
+
 ---
 
 ### 💻 How to Run
